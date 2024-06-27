@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048239074183",
+    "project_id": "mohaddesenotebook-996ec",
+    "storage_bucket": "mohaddesenotebook-996ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048239074183:android:82c163cb26a6dd96134122",
+        "android_client_info": {
+          "package_name": "com.example.mohaddesenotebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt7EbCB1k8OSLM6yA7NEhrY92mxxKm80o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
